@@ -1,0 +1,12 @@
+2024-08-28 15:21:55 [restartedMain] INFO  c.e.l.LoggingExerciseApplication - Starting LoggingExerciseApplication using Java 22.0.1 with PID 5152 (C:\Users\giuse\OneDrive\Desktop\logging-exercise\target\classes started by giuse in C:\Users\giuse\OneDrive\Desktop\logging-exercise)
+2024-08-28 15:21:55 [restartedMain] INFO  c.e.l.LoggingExerciseApplication - No active profile set, falling back to 1 default profile: "default"
+2024-08-28 15:21:55 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-08-28 15:21:55 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-08-28 15:21:57 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-08-28 15:21:57 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-08-28 15:21:57 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-08-28 15:21:57 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-08-28 15:21:57 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1495 ms
+2024-08-28 15:21:57 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-08-28 15:21:58 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-08-28 15:21:58 [restartedMain] INFO  c.e.l.LoggingExerciseApplication - Started LoggingExerciseApplication in 2.987 seconds (process running for 3.623)
